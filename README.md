@@ -20,7 +20,7 @@ Getting Started
 
     Clone the repository:
 
-git clone https://github.com/yourusername/letstalk.git
+git clone https://github.com/shivam-som/LetsTalk-ChatApp
 
 Install dependencies:
 
